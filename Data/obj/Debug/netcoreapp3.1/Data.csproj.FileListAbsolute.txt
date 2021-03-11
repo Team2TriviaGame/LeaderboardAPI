@@ -1,0 +1,15 @@
+C:\Users\csoph\Desktop\Revature\Trivia\Data\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\csoph\Desktop\Revature\Trivia\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\csoph\Desktop\Revature\Trivia\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\csoph\Desktop\Revature\Trivia\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\csoph\Desktop\Revature\Trivia\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\csoph\Desktop\Revature\Trivia\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\csoph\Desktop\Revature\Trivia\Data\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Users\csoph\Desktop\Revature\Trivia\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
