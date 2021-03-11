@@ -25,6 +25,12 @@ namespace Trivia.Controllers
             return Ok(await _repo.GetScoresAsync());
         }
 
+        [HttpGet("scores/{top}")]
+        public async Task<IActionResult> GetHighScores(int top)
+        {
+            return Ok(await _repo.GetScoresAsync(top));
+        }
+
         [HttpPost("score")]
         public async Task<IActionResult> PostScore([FromBody] Score score)
         {

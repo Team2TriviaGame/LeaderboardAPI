@@ -29,7 +29,12 @@ namespace Data
 
         public async Task<List<Score>> GetScoresAsync()
         {
-            return await _ctx.Scores.OrderByDescending(x => x.UserScore).Take<Score>(10).ToListAsync();
+            return await _ctx.Scores.OrderByDescending(x => x.UserScore).ToListAsync();
+        }
+
+        public async Task<List<Score>> GetScoresAsync(int top)
+        {
+            return await _ctx.Scores.OrderByDescending(x => x.UserScore).Take<Score>(top).ToListAsync();
         }
     }
 }
